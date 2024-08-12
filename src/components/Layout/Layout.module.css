@@ -1,0 +1,17 @@
+
+.layoutContainer {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+  }
+
+  .mainContent {
+    flex: 1; 
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .appBarSpacing {
+    margin-bottom: 20px; 
+  }
+  

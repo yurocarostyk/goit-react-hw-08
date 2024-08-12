@@ -1,0 +1,39 @@
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #0d47a1;
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.nav-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.user-menu, .auth-nav {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+
+.nav-container a,
+.user-menu a,
+.auth-nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+.nav-container a:hover,
+.user-menu a:hover,
+.auth-nav a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,30 @@
+
+.contactsPage {
+    padding: 20px; 
+    max-width: 1200px; 
+    margin: 0 auto; 
+    background-color: #f9f9f9; 
+  }
+  
+
+  .contactsPage h1 {
+    font-size: 2rem; 
+    color: #333; 
+    margin-bottom: 20px; 
+  }
+  
+
+  .contactsPage .formContainer {
+    margin-bottom: 20px; 
+  }
+  
+  
+  .contactsPage .filterContainer {
+    margin-bottom: 20px;
+  }
+  
+
+  .contactsPage .contactListContainer {
+    margin-top: 20px; 
+  }
+  

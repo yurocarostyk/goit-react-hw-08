@@ -1,0 +1,11 @@
+/* AuthNav.module.css */
+.link {
+    text-decoration: none;
+    color: blue;
+  }
+  
+  .activeLink {
+    text-decoration: underline;
+    color: red;
+  }
+  
